@@ -17,4 +17,5 @@ http://opensecuritytraining.info/Welcome.html
 https://trailofbits.github.io/ctf/
 https://www.cybrary.it/
 https://www.2600.com/
+https://labs.detectify.com/
 
