@@ -19,4 +19,5 @@ https://www.cybrary.it/
 https://www.2600.com/
 https://labs.detectify.com/
 
-http://malware-traffic-analysis.net/
+http://malware-traffic-analysis.net/       study pcap analyse
+https://www.virustotal.com/   upload pcap and check virus
