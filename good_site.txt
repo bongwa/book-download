@@ -21,3 +21,4 @@ https://labs.detectify.com/
 
 http://malware-traffic-analysis.net/       study pcap analyse
 https://www.virustotal.com/   upload pcap and check virus
+http://www.kahusecurity.com/   future research
