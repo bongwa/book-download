@@ -22,3 +22,8 @@ https://labs.detectify.com/
 http://malware-traffic-analysis.net/       study pcap analyse
 https://www.virustotal.com/   upload pcap and check virus
 http://www.kahusecurity.com/   future research
+
+//威胁情报
+https://otx.alienvault.com/
+https://cymon.io/
+http://hailataxii.com/
