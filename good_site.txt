@@ -38,3 +38,5 @@ https://www.brokenbrowser.com/
 http://www.primalsecurity.net/
 http://www.fuzzysecurity.com/
 https://breakpoint-labs.com
+
+https://www.exploit-db.com/
